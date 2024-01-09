@@ -1,0 +1,6 @@
+﻿namespace DotnetStarter
+{
+    interface IService
+    {
+    }
+}
